@@ -1,0 +1,38 @@
+# =========================
+# 🔹 Python / FastAPI
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Python build files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# SQLite (if used)
+*.sqlite3
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# VS Code / IDE
+.vscode/
+.idea/
